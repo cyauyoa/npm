@@ -1,0 +1,29 @@
+// por defecto la depencia de producción (en dependencies)
+npm install moment
+
+// La dependencia solo estara disponible para desarrollo (en devDependencies)
+npm install eslint -D
+
+// por defecto la depencia de producción (en dependencies)
+npm install react --save
+
+// paquetes globales
+
+npm install -g cowsay
+
+lista de paquetes agregados
+npm lista
+
+lista de paqutes globables
+npm list -g
+
+instalar de manera opcional
+npm install eslint -o
+
+simular una instalacion sin agregar
+npm install react-dom --dry-run
+
+
+
+
+
